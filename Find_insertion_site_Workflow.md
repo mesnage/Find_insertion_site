@@ -43,6 +43,6 @@ Ultimately, the soft clipping reads are re-aligned to the 3’LTR sequence using
 
 This consensus overhanging sequence is then aligned to the human genome using BLAT (https://www.ncbi.nlm.nih.gov/pubmed/11932250) in order to find the location of the insertion site.
 
-# Copyright:  (c) Robin Mesnage, King's College London, 2018
-# Author:     Robin Mesnage
-# Contact:    robin.mesnage@kcl.ac.uk
+Copyright:  (c) Robin Mesnage, King's College London, 2018
+Author:     Robin Mesnage
+Contact:    robin.mesnage@kcl.ac.uk
