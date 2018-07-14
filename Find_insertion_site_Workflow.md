@@ -18,7 +18,7 @@ samtools view -b -F 4 mapped.bam > mapped_sorted.bam
 
 ```
 
-# Import the BAM file in R to filter the soft clipping reads and produce a table of the results
+## Import the BAM file in R to filter the soft clipping reads and produce a table of the results
 
 Reads are extracted from the resulting BAM file using a regular expression searching for the pattern ‘S’ in their cigar strings in R. 
 
